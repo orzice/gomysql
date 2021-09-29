@@ -1,20 +1,21 @@
-<h1 align="center">Mysql Query Constructor</h1>
+<h1 align="center">Mysql 查询构造函数</h1>
 
 <p align="center">
-Mysql query builder similar to laravel
+类似于laravel的Mysql查询构建器
 </p>
+
 <p align="center">
 <a href="README.md">English</a> |
 <a href="README_cn.md">中文</a>
 </p>
 
-## Install
+## 安装
 ```
-1. download MysqlConstructor.go
-2. Revise package
+1. 下载 MysqlConstructor.go
+2. 修改 package 包名
 ```
 
-## Use
+## 使用
 
 ### Init
 ```
@@ -70,6 +71,6 @@ DB.Close()
 ```
 
 
-## Quote
+## 引用
 
 https://github.com/go-sql-driver/mysql
